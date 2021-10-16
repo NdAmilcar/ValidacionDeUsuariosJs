@@ -1,3 +1,5 @@
+![alt text](https://github.com/NdAmilcar/ValidacionDeUsuariosJs/blob/main/img/formulario.png)
+
 # Formulario con validacion de usuarios(JS)
 FORMULARIO con validaciòn de usuarios en js
 
