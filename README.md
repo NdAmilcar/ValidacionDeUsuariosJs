@@ -4,10 +4,10 @@
 FORMULARIO con validaciòn de usuarios en js
 
 
-#Bienvenidos a mi repositorio
 
 
-### Los invito a aprovechar de todos los códigos que iré subiendo a lo largo de mi vida como desarrollador.
+### Bienvenidos a mi repositorio.
+
     Espero sea de ayuda, si tienen algún problema con el código o alguna duda, sin ningún problema pueden contactarme,
     voy a hacer todo lo posible por responder a todas sus dudas, dejo mis redes sociales para que puedan hacerlo.
 
